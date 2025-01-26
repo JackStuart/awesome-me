@@ -8,6 +8,7 @@
 
 - [Docs](#software)
   - [Communication](#Communication)
+  - [Helpful Links](#Helpful-Links)
 
 --------------------
 
@@ -15,6 +16,12 @@
 
 ### Communication
 - [No Hello](https://aka.ms/nohello/) - No Hello is something you can set as your Teams Status message to help people understand the most efficient way to communicate over chat systems (e.g. Teams/Slack)
+
+
+**[`^        back to top        ^`](#awesome-me)**
+
+### Helpful Links
+- [MS Portal Links](https://msportals.io/) - Links to ever changing Microsoft portals 
 
 
 **[`^        back to top        ^`](#awesome-me)**
