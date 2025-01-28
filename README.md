@@ -19,6 +19,7 @@
 
 ### Misc
 - [Daniel Chronlund Cloud Security Blog](https://danielchronlund.com/) - Cloud Security - Good docs on Conditional Access
+- [Troy Hunt's blog](https://www.troyhunt.com/) - Security, Owner of https://haveibeenpwned.com/
 
 **[`^        back to top        ^`](#awesome-me)**
 
@@ -31,7 +32,7 @@
 **[`^        back to top        ^`](#awesome-me)**
 
 ### Helpful Links
-- [ASD 37](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/strategies-mitigate-cyber-security-incidents/strategies-mitigate-cyber-security-incidents)
+- [ASD 37](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/strategies-mitigate-cyber-security-incidents/strategies-mitigate-cyber-security-incidents) - Australian Signals Directorate released 37 strategies for IT Security
 - [Essential 8 Links](https://e8.jstuart.io) - All of the Essential 8 in 1 page
 - [Get Security Done](https://dcaddick.github.io/gsd_public/GSD/) - Good collection of information on Microsoft Security
 - [MS Portal Links](https://msportals.io/) - Links to ever changing Microsoft portals
