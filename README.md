@@ -1,4 +1,4 @@
-# Awesome Sysadmin
+# Awesome Me
 
 [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -6,11 +6,21 @@
 
 ## Table of contents
 
-- [Docs](#software)
+- [Blogs](#Blogs)
+  - [Misc](#Misc)
+- [Docs](#Docs)
   - [Communication](#Communication)
   - [Helpful Links](#Helpful-Links)
-
+  - [Microsoft](#Microsoft)
+- [Tools](#Tools)
+  - [Powershell](#Powershell)
 --------------------
+## Blogs
+
+### Misc
+- [Daniel Chronlund Cloud Security Blog](https://danielchronlund.com/) - Cloud Security - Good docs on Conditional Access
+
+**[`^        back to top        ^`](#awesome-me)**
 
 ## Docs
 
@@ -21,7 +31,23 @@
 **[`^        back to top        ^`](#awesome-me)**
 
 ### Helpful Links
-- [MS Portal Links](https://msportals.io/) - Links to ever changing Microsoft portals 
+- [Essential 8 Links](https://e8.jstuart.io) - All of the Essential 8 in 1 page
+- [Get Security Done](https://dcaddick.github.io/gsd_public/GSD/) - Good collection of information on Microsoft Security
+- [MS Portal Links](https://msportals.io/) - Links to ever changing Microsoft portals
 
+
+**[`^        back to top        ^`](#awesome-me)**
+
+### Microsoft
+- [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/what-is-well-architected-framework)
+- [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
+
+**[`^        back to top        ^`](#awesome-me)**
+
+## Tools
+
+### Powershell
+- [DC Toolbox](https://github.com/DanielChronlund/DCToolbox) - This PowerShell module contains a collection of tools for Microsoft 365 security tasks, Microsoft Graph functions, Entra ID management, Conditional Access, zero trust strategies, attack and defense scenarios, etc.
 
 **[`^        back to top        ^`](#awesome-me)**
