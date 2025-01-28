@@ -31,6 +31,7 @@
 **[`^        back to top        ^`](#awesome-me)**
 
 ### Helpful Links
+- [ASD 37](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/strategies-mitigate-cyber-security-incidents/strategies-mitigate-cyber-security-incidents)
 - [Essential 8 Links](https://e8.jstuart.io) - All of the Essential 8 in 1 page
 - [Get Security Done](https://dcaddick.github.io/gsd_public/GSD/) - Good collection of information on Microsoft Security
 - [MS Portal Links](https://msportals.io/) - Links to ever changing Microsoft portals
@@ -42,6 +43,7 @@
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/what-is-well-architected-framework)
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
+- [Essential 8 with Microsoft Technologies](https://learn.microsoft.com/en-us/compliance/anz/e8-overview)
 
 **[`^        back to top        ^`](#awesome-me)**
 
